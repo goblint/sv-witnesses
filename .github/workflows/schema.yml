@@ -3,7 +3,7 @@ name: YAML schema
 on:
   push:
     branches:
-    - main
+    - goblint
 
 permissions:
   contents: read
